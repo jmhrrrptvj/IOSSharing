@@ -1,5 +1,7 @@
 {
   "name": "IosShare",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
